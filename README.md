@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-To use Telegram Casino Bot, you will need to set up a Telegram bot using the BotFather, and obtain API keys for QIWI P2P, glQiwiApi, and Coinbase. Once you have these keys, create a configuration file called `config.ini` in the project directory and add change values inside ''.
+To use Telegram Casino Bot, you will need to set up a Telegram bot using the BotFather, and obtain API keys for QIWI P2P, glQiwiApi, and Coinbase. Once you have these keys, create a configuration file called `config.ini` in the project directory and add change values.
 
 To run the bot, simply run the `bot.py` file:
 
