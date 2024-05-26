@@ -25,7 +25,7 @@ Telegram Casino Bot is a Python-based application that uses the aiogram, sqlite3
 To install Telegram Casino Bot, clone this repository and install the required dependencies using pip:
 
 ```
-git clone https://github.com/yourusername/telegram-casino-bot.git
+git clone https://github.com/BotYanis/telegram-casino-bot.git
 cd telegram-casino-bot
 pip install -r requirements.txt
 ```
